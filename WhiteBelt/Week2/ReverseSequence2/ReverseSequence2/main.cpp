@@ -18,6 +18,6 @@ vector<int> Reversed(const vector<int>& v) {
 }
 
 int main(int argc, const char * argv[]) {
-    auto x = Reversed({1, 5, 3, 2, 1, 6});
+    auto x = Reversed({1, 5, 3, 2, 1, 6});    
     return 0;
 }
