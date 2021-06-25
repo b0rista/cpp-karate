@@ -45,10 +45,6 @@ int main(int argc, const char * argv[]) {
     for (const auto& i: v) {
         cout << i << ' ';
     }
-    
-    int x = 5;
-    string s = x > 0 ? "positive" : (x == 0 ? "zero" : "negative");
-    cout << s;
-    
+
     return 0;
 }
